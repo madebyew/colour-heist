@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ee744f7743e6eb97beb3251f00e1ea8",
+    "revision": "89a68710eef5128a317f59d6359d198c",
     "url": "/colour-heist/index.html"
   },
   {
-    "revision": "7a7e9fbc88992d0a40fe",
+    "revision": "82fa38fff00f175e690f",
     "url": "/colour-heist/static/css/main.886ff295.chunk.css"
   },
   {
-    "revision": "27bb43a82271d31dcc4f",
-    "url": "/colour-heist/static/js/2.89eeb05d.chunk.js"
+    "revision": "7c6256054024605e578e",
+    "url": "/colour-heist/static/js/2.6256a071.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/colour-heist/static/js/2.89eeb05d.chunk.js.LICENSE.txt"
+    "url": "/colour-heist/static/js/2.6256a071.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a7e9fbc88992d0a40fe",
-    "url": "/colour-heist/static/js/main.4a4445d8.chunk.js"
+    "revision": "82fa38fff00f175e690f",
+    "url": "/colour-heist/static/js/main.41695daf.chunk.js"
   },
   {
     "revision": "2cc1f83c13fd3742d3b4",
