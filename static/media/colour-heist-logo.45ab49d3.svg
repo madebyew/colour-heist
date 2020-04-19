@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon v3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.6231731%" id="linearGradient-1">
+            <stop stop-color="#FF8ECE" offset="0%"></stop>
+            <stop stop-color="#6E33FF" offset="99.9076225%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0 108.546196 65.1277177 21.7092392 155.582881 0 246.038044 21.7092392 311.165762 108.546196 155.582881 311.165762"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.9683315%" id="linearGradient-6">
+            <stop stop-color="#FFE4C3" offset="0%"></stop>
+            <stop stop-color="#FF1C5A" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-7" points="0 108.546196 65.1277177 21.7092392 155.582881 0 246.038044 21.7092392 311.165762 108.546196 155.582881 311.165762"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.5784154%" id="linearGradient-8">
+            <stop stop-color="#83DEFF" offset="0%"></stop>
+            <stop stop-color="#008FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle" fill="#202325" points="0 0 512 0 512 512 0 512"></polygon>
+        <g id="V3-R5">
+            <g id="bg" fill="#202325">
+                <polygon id="Rectangle" points="0 0 512 0 512 512 0 512"></polygon>
+            </g>
+            <g id="gems-V2" transform="translate(20.000000, 48.000000)">
+                <g id="gem" transform="translate(160.000000, 104.000000)">
+                    <g id="Rectangle-Copy-8">
+                        <use fill="#E1ABFF" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Group" opacity="0.5" transform="translate(0.000000, 28.945652)" fill-opacity="0.2" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1.40272607">
+                        <path d="M309.621692,80.459812 L239.284302,87.4935509 L158.396304,277.404503 L309.621692,80.459812 Z M1.54407036,80.459812 L152.769458,277.404503 L71.8814599,87.4935509 L1.54407036,80.459812 Z" id="Rectangle-Copy-9" fill="url(#linearGradient-3)"></path>
+                        <path d="M155.582881,22.5998533 L74.3983237,86.1355938 L236.767438,86.1355938 L155.582881,22.5998533 Z" id="Rectangle-Copy-10" fill="url(#linearGradient-4)"></path>
+                        <path d="M155.582881,0.729489629 L84.6029822,21.0319441 L226.56278,21.0319441 L155.582881,0.729489629 Z" id="Rectangle-Copy-11" fill="url(#linearGradient-5)" transform="translate(155.582881, 10.866654) scale(1, -1) translate(-155.582881, -10.866654) "></path>
+                    </g>
+                </g>
+                <g id="gem" transform="translate(0.000000, 104.000000)">
+                    <g id="Rectangle-Copy-8">
+                        <use fill="#FFA749" xlink:href="#path-7"></use>
+                        <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Group" opacity="0.5" transform="translate(0.000000, 28.945652)" fill-opacity="0.2" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1.40272607">
+                        <path d="M309.621692,80.459812 L239.284302,87.4935509 L158.396304,277.404503 L309.621692,80.459812 Z M1.54407036,80.459812 L152.769458,277.404503 L71.8814599,87.4935509 L1.54407036,80.459812 Z" id="Rectangle-Copy-9" fill="url(#linearGradient-3)"></path>
+                        <path d="M155.582881,22.5998533 L74.3983237,86.1355938 L236.767438,86.1355938 L155.582881,22.5998533 Z" id="Rectangle-Copy-10" fill="url(#linearGradient-4)"></path>
+                        <path d="M155.582881,0.729489629 L84.6029822,21.0319441 L226.56278,21.0319441 L155.582881,0.729489629 Z" id="Rectangle-Copy-11" fill="url(#linearGradient-5)" transform="translate(155.582881, 10.866654) scale(1, -1) translate(-155.582881, -10.866654) "></path>
+                    </g>
+                </g>
+                <g id="gem-copy" transform="translate(80.000000, 0.000000)">
+                    <polygon id="Rectangle-Copy-8" fill="url(#linearGradient-8)" style="mix-blend-mode: screen;" points="0 108.492656 65.291567 21.6985312 155.974299 0 246.657031 21.6985312 311.948598 108.492656 155.974299 311.012281"></polygon>
+                    <g id="Group" opacity="0.5" transform="translate(0.000000, 28.931375)" fill-opacity="0.2" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1.40112602">
+                        <path d="M310.403474,80.4193659 L239.883967,87.4501501 L158.786534,277.281323 L310.403474,80.4193659 Z M1.54512391,80.4193659 L153.162064,277.281323 L72.0646308,87.4501501 L1.54512391,80.4193659 Z" id="Rectangle-Copy-9" fill="url(#linearGradient-9)"></path>
+                        <path d="M155.974299,22.5871161 L74.5828766,86.0935618 L237.365721,86.0935618 L155.974299,22.5871161 Z" id="Rectangle-Copy-10" fill="url(#linearGradient-10)"></path>
+                        <path d="M155.974299,0.728492349 L84.812,21.0220242 L227.136598,21.0220242 L155.974299,0.728492349 Z" id="Rectangle-Copy-11" fill="url(#linearGradient-11)" transform="translate(155.974299, 10.861294) scale(1, -1) translate(-155.974299, -10.861294) "></path>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(88.871000, 104.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>
